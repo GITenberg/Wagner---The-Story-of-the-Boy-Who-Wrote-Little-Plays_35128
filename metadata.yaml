@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5481'
     url: http://www.gutenberg.org/2009/agents/5481
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35128#Wagner---The-Story-of-the-Boy-Who-Wrote-Little-Plays
 gutenberg_bookshelf: Child's Own Book of Great Musicians
 gutenberg_issued: '2011-01-31'
 gutenberg_type: Text
