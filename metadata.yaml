@@ -1,0 +1,28 @@
+_repo: Wagner---The-Story-of-the-Boy-Who-Wrote-Little-Plays_35128
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35128-h/images/cover.png
+creator:
+  author:
+    agent_name: Tapper, Thomas
+    birthdate: 1864
+    deathdate: 1958
+    gutenberg_agent_id: '5481'
+    url: http://www.gutenberg.org/2009/agents/5481
+description: ''
+gutenberg_bookshelf: Child's Own Book of Great Musicians
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Composers -- Germany -- Biography -- Juvenile literature'
+- !lcsh 'Wagner, Richard, 1813-1883 -- Juvenile literature'
+title: 'Wagner : The Story of the Boy Who Wrote Little Plays'
+url: http://www.gutenberg.org/ebooks/35128
